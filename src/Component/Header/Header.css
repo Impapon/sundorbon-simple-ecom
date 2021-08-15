@@ -1,0 +1,23 @@
+.header img{
+    height: 6rem;
+    width:auto;
+
+}
+.header{
+    text-align: center;
+}
+.header nav{
+    line-height:4rem;
+    background-color:black;
+}
+nav a{
+    text-decoration: none;
+    color:white;
+    margin-right:1rem;
+    padding:0.5rem;
+    float:start;
+}
+
+nav a:hover{
+    color:grey;
+}
